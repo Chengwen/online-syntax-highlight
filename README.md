@@ -15,4 +15,4 @@
 ![Demo1](demo1.png)
 
 ## Demo2:
-![Demo2](demo1.png)
+![Demo2](demo2.png)
